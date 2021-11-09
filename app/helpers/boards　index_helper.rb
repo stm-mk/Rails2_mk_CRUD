@@ -1,0 +1,2 @@
+module Boards　indexHelper
+end
